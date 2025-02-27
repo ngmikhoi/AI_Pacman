@@ -12,20 +12,6 @@ This assignment involves implementing and analyzing search algorithms to solve v
 
 The assignment is designed to enhance understanding of fundamental search techniques and their applications in AI.  
 
-## Table of Contents
-1. **Introduction**  
-2. **General Search Algorithm**  
-3. **File: `search.py`**  
-   - **Question 1 (3 points):** Finding a Fixed Food Dot using Depth First Search  
-   - **Question 2 (3 points):** Finding a Fixed Food Dot using Breadth First Search  
-   - **Question 3 (3 points):** Varying the Cost Function  
-   - **Question 4 (3 points):** A* Search  
-4. **File: `searchAgents.py`**  
-   - **Question 5 (3 points):** Finding All the Corners  
-   - **Question 6 (3 points):** Corners Problem: Heuristic  
-   - **Question 7 (3 points):** Corners Problem: Eating All The Dots  
-   - **Question 8 (3 points):** Suboptimal Search  
-
 ## Objectives
 - Implement fundamental search algorithms (DFS, BFS, A*).  
 - Understand cost functions and heuristic-based approaches.  
@@ -37,13 +23,6 @@ The assignment is designed to enhance understanding of fundamental search techni
 - **Report**: Explanation of methods, code structure, and performance analysis.  
 - **Results**: Execution outputs and comparison of different search strategies
 Python3 port of [Berkeley AI Pacman Search](http://ai.berkeley.edu)
-
-Project 1: Search
------------------
-
-Version 1.001. Last Updated: 08/26/2014.
-
-* * *
 
 ### Table of Contents
 
