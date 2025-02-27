@@ -1,3 +1,41 @@
+# Assignment 1: Developing Search Algorithms with a Reference Framework from UCB
+
+## Course Information
+- **Course**: Introduction to Artificial Intelligence (CO3061)  
+- **Institution**: Vietnam National University, Ho Chi Minh City – University of Technology  
+- **Faculty**: Computer Science and Engineering  
+
+## Overview
+This assignment involves implementing and analyzing search algorithms to solve various pathfinding and decision-making problems. The task is divided into two main parts:  
+- Implementing search algorithms in `search.py`.  
+- Solving corner-finding and heuristic-based problems in `searchAgents.py`.  
+
+The assignment is designed to enhance understanding of fundamental search techniques and their applications in AI.  
+
+## Table of Contents
+1. **Introduction**  
+2. **General Search Algorithm**  
+3. **File: `search.py`**  
+   - **Question 1 (3 points):** Finding a Fixed Food Dot using Depth First Search  
+   - **Question 2 (3 points):** Finding a Fixed Food Dot using Breadth First Search  
+   - **Question 3 (3 points):** Varying the Cost Function  
+   - **Question 4 (3 points):** A* Search  
+4. **File: `searchAgents.py`**  
+   - **Question 5 (3 points):** Finding All the Corners  
+   - **Question 6 (3 points):** Corners Problem: Heuristic  
+   - **Question 7 (3 points):** Corners Problem: Eating All The Dots  
+   - **Question 8 (3 points):** Suboptimal Search  
+
+## Objectives
+- Implement fundamental search algorithms (DFS, BFS, A*).  
+- Understand cost functions and heuristic-based approaches.  
+- Solve pathfinding problems in grid-based environments.  
+- Develop AI agents to optimize decision-making strategies.  
+
+## Expected Deliverables
+- **Code Implementation**: `search.py` and `searchAgents.py` with documented solutions.  
+- **Report**: Explanation of methods, code structure, and performance analysis.  
+- **Results**: Execution outputs and comparison of different search strategies
 Python3 port of [Berkeley AI Pacman Search](http://ai.berkeley.edu)
 
 Project 1: Search
