@@ -305,7 +305,3 @@ _Hint:_ The quickest way to complete `findPathToClosestDot` is to fill in the `A
 Your `ClosestDotSearchAgent` won't always find the shortest possible path through the maze. Make sure you understand why and try to come up with a small example where repeatedly going to the closest dot does not result in finding the shortest path for eating all the dots.
 
 * * *
-
-### Submission
-
-You're not done yet! Follow your instructor's guidelines to receive credit on your project!
