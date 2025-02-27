@@ -22,6 +22,7 @@ The assignment is designed to enhance understanding of fundamental search techni
 - **Code Implementation**: `search.py` and `searchAgents.py` with documented solutions.  
 - **Report**: Explanation of methods, code structure, and performance analysis.  
 - **Results**: Execution outputs and comparison of different search strategies
+
 Python3 port of [Berkeley AI Pacman Search](http://ai.berkeley.edu)
 
 ### Table of Contents
